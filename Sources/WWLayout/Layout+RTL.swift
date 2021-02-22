@@ -8,7 +8,7 @@
 // ===----------------------------------------------------------------------===//
 //
 
-import Foundation
+import UIKit
 
 public enum LayoutRtlFillEdge {
     case leading
