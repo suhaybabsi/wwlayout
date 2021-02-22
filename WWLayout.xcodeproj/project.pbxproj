@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A60210C25E3D19300B95260 /* Layout+RTL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A60210B25E3D19300B95260 /* Layout+RTL.swift */; };
 		7904E8AA23C545740059FE58 /* SizeClassTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7904E89E23C545740059FE58 /* SizeClassTests.swift */; };
 		7904E8AB23C545740059FE58 /* SafeAreaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7904E89F23C545740059FE58 /* SafeAreaTests.swift */; };
 		7904E8AC23C545740059FE58 /* TaggingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7904E8A023C545740059FE58 /* TaggingTests.swift */; };
@@ -53,6 +54,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3A60210B25E3D19300B95260 /* Layout+RTL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Layout+RTL.swift"; sourceTree = "<group>"; };
 		7904E89E23C545740059FE58 /* SizeClassTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SizeClassTests.swift; sourceTree = "<group>"; };
 		7904E89F23C545740059FE58 /* SafeAreaTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SafeAreaTests.swift; sourceTree = "<group>"; };
 		7904E8A023C545740059FE58 /* TaggingTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaggingTests.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 				798090CD22C5492300C993C1 /* Layout+Activate.swift */,
 				790A03151FDC52A000F21655 /* Layout+Center.swift */,
 				790A03191FDC53B300F21655 /* Layout+Fill.swift */,
+				3A60210B25E3D19300B95260 /* Layout+RTL.swift */,
 				790A031B1FDC53FE00F21655 /* Layout+Edges.swift */,
 				790A031F1FDD776A00F21655 /* Layout+Size.swift */,
 				798F253B1FD19013006E6A44 /* Anchorable.swift */,
@@ -318,6 +321,7 @@
 				790A031C1FDC53FE00F21655 /* Layout+Edges.swift in Sources */,
 				790A03201FDD776A00F21655 /* Layout+Size.swift in Sources */,
 				798090D222C5492300C993C1 /* UIView+Containment.swift in Sources */,
+				3A60210C25E3D19300B95260 /* Layout+RTL.swift in Sources */,
 				791432A32039E18A002783BE /* LayoutConstraint.swift in Sources */,
 				791432A5203B1272002783BE /* LayoutAnchor.swift in Sources */,
 				798F25421FD19013006E6A44 /* LayoutDimension.swift in Sources */,
